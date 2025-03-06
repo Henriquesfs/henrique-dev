@@ -13,9 +13,6 @@
   💼 Ferramentas: <strong>Git,JDBC, PostgreSQL</strong>
 </p>
 
-<p align="left">
-  💌 Entre em contato comigo: ⤵️
-</p>
 
 <p align="left">
   <a href="mailto:joao.silva@gmail.com" title="Gmail">
